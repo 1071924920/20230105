@@ -5,8 +5,14 @@
 
 int main(void)
 {
-        printf("upload first files..\n")
-        return 0;
-}
-~
+        printf("upload first files..\n");
+	
+	printf("hello world.\n");
+	
+	printf("upload .\n");
+	
 
+
+        return 0;
+
+}
